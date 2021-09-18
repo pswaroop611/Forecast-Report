@@ -1,0 +1,53 @@
+h1 {
+color: white;
+background-color: #979A9A;
+font-family: "Josefin Slab";
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: 0.9;
+text-decoration: none;
+text-transform: none;
+}
+table {
+
+  border-collapse: collapse;
+  border-spacing: 5px;
+  background-color: white;
+}
+table, td{
+  border-bottom : 1px solid rgb(226, 226, 226);
+  padding:10px;
+}
+th {
+  border-bottom : 2px solid greenyellow;
+ padding: 10px;
+ border-spacing: 5px;
+ vertical-align: top;
+}
+
+
+
+.first-col {
+  background-color: white;
+  position: absolute;
+  
+ left: 0em;
+ top:auto;
+  
+ 
+}
+.vl {
+  border-left: 1px solid grey;
+  height: 100%;
+}
+li{
+  margin: 10px 0;
+}
+.redColor{
+  fill : white;
+}
+
+img {
+  width: 100px;
+}
